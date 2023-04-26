@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'YanoneKaffeesatz';
+    src: url(../fonts/YanoneKaffeesatz/YanoneKaffeesatz-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans/OpenSans.ttf) format('truetype');
+}
